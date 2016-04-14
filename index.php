@@ -19,7 +19,7 @@
     </section>
 
     <section class="main-content">
-      
+      <h1>OK.</h1>
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/botme/4chanme">4chanme</a> is maintained by <a href="https://github.com/botme">botme</a>.</span>
 
